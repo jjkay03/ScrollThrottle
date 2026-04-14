@@ -1,0 +1,12 @@
+{
+  "scrollThrottle_up": {
+    "title": "Throttle Limit Up",
+    "type": "button",
+    "onDown": "extensions.scrollThrottle.throttleUp()"
+  },
+  "scrollThrottle_down": {
+    "title": "Throttle Limit Down",
+    "type": "button",
+    "onDown": "extensions.scrollThrottle.throttleDown()"
+  }
+}

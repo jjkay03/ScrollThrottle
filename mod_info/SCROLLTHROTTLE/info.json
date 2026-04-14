@@ -1,0 +1,9 @@
+{
+  "tagid": "SCROLLTHROTTLE",
+  "title": "Scroll Throttle",
+  "tag_line": "Control throttle percentage.",
+  "username": "jjkay03",
+  "version_string": "1.0",
+  "description": "Adds two keys to increase/decrease throttle limit in steps.",
+  "mod_version": 1
+}
